@@ -1,0 +1,10 @@
+﻿Please refer to the notebook titled "XGBoost_Final_DF_Dataset_Final_version.ipynb" for detailed results regarding XGBoost. This notebook includes inline comments for better understanding and clarity.
+
+
+For Ray_Cluster.ipynb:
+1) Configure GCP cluster using Ray with config.yaml
+2) Use Google Cloud API access Key to authenticate
+3) Run the existing script
+
+
+Please run the notebook titled "RondomForest_TFDF_Dataset_.ipynb" for detailed results regarding Random Forest.
